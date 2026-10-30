@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.DS_Store
+
+# 项目实际数据与生成结果不入库
+白城中心医院内保洁外包服务项目/
+config.json
+*.docx
+*.zip

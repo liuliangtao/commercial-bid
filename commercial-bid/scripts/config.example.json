@@ -1,0 +1,44 @@
+{
+  "project": {
+    "name": "【项目名称】",
+    "no": "【项目编号】",
+    "buyer": "【采购人】",
+    "agency": "【采购代理机构】",
+    "bid_opening_date": "【开标日期，如：2026年11月13日】",
+    "bid_opening_date_cn": "【开标日期中文大写，如：二○二六年十一月十三日】",
+    "bid_guarantee": "0",
+    "bid_guarantee_note": "本项目不收取投标保证金",
+    "service_days": "365",
+    "service_period": "一年",
+    "bid_validity_days": "50",
+    "price_total": "【投标总价小写】",
+    "price_total_cn": "【投标总价大写，如：人民币叁佰零肆万玖仟柒佰壹拾捌元整】"
+  },
+  "supplier": {
+    "company": "【供应商全称】",
+    "credit_code": "【统一社会信用代码】",
+    "legal_rep": "【法定代表人】",
+    "legal_rep_title": "经理",
+    "address": "【注册地址】",
+    "phone": "【联系电话】",
+    "fixed_phone": "【固定电话】",
+    "zip": "【邮政编码】",
+    "bank": "【开户银行】",
+    "account": "【银行账号】",
+    "nature": "【企业性质，以营业执照为准】",
+    "founded": "【成立日期】",
+    "registered_capital": "【注册资本】",
+    "scope": "【经营范围，以营业执照载明为准】",
+    "sme": {
+      "industry": "物业管理",
+      "employees": "【从业人员数】",
+      "revenue": "【营业收入（万元）】",
+      "assets": "【资产总额（万元）】",
+      "size": "【中型企业/小型企业/微型企业】"
+    },
+    "agent": {
+      "name": "【被授权人姓名，法定代表人亲自投标可不填】",
+      "title": "【被授权人职务】"
+    }
+  }
+}
